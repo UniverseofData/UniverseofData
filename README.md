@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tabaleu
 - 💬 Ask me about Python,Machine Learning using NLP, python, Webscarping using  automation tool namely selenium, 
 - 📫 How to reach me: byashshree2021@gmail.com
-- 💼 Working as intern at [Innomatics Research Labs]
+- 💼 Working as intern at Innomatics Research Labs
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UniverseofData&theme=highcontrast&show_icons=true&count_private=true)
 
