@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UniverseofData&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=UniverseofData)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UniverseofData&theme=neon-palenight&hide_border=true)
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniverseofData&show_icons=true&theme=tokyonight)
+
