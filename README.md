@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/UniverseofData/UniverseofData/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/UniverseofData/UniverseofData/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/UniverseofData/shinokadaUniverseofData/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/UniverseofData/UniverseofData/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/UniverseofData/UniverseofData/master/assets/vim.png"></code>  
+
