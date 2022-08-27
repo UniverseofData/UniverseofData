@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
 
 
+![image title](https://rushter.com/counter.svg)
