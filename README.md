@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💼 Working as intern at [Innomatics Research Labs]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UniverseofData&theme=highcontrast&show_icons=true&count_private=true)
-// README.md
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=UniverseofData)
 
