@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 I am Yashshree Baviskar
 
-<!--
-**UniverseofData/UniverseofData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!------------------------------------------------------------------------------------------------------------------>
+I m very passionate about software engineering, machine learning and data analysis
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on streamlit app development
+- 🌱 I’m currently learning Tabaleu
+- 💬 Ask me about Python,Machine Learning using NLP, python, Webscarping using  automation tool namely selenium, 
+- 📫 How to reach me: byashshree2021@gmail.com
+- 💼 Working as intern at [Innomatics Research Labs]
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=UniverseofData&theme=highcontrast&show_icons=true&count_private=true)
