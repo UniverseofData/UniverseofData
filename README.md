@@ -6,9 +6,9 @@ I m very passionate about software engineering, machine learning and data analys
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on streamlit app development
-- 🌱 I’m currently learning Tabaleu
-- 💬 Ask me about Python,Machine Learning using NLP, Webscarping using  automation tool namely selenium, 
+- 🔭 I’m currently working on Deep Learning
+- 🌱 I’m currently learning Computer Vision
+- 💬 Ask me about Python,Machine Learning using NLP, Webscarping using selenium,Beatifulsoop, 
 - 📫 How to reach me: byashshree2021@gmail.com
 - 💼 Working as intern at Innomatics Research Labs
 <h2>🏆 Github Profile Trophy</h2>
